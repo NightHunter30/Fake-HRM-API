@@ -1,0 +1,25 @@
+{
+  "attendance": [
+    {
+      "id": 1,
+      "emp_id": "1",
+      "emp_name": "Ahmed Fathalla",
+      "check_in_date": 1586160157,
+      "check_out_date": 1586190157,
+    },
+    {
+      "id": 1,
+      "emp_id": "1",
+      "emp_name": "Ahmed Fathalla",
+      "check_in_date": 1586160157,
+      "check_out_date": 1586190157,
+    },
+    {
+      "id": 1,
+      "emp_id": "1",
+      "emp_name": "Ahmed Fathalla",
+      "check_in_date": 1586160157,
+      "check_out_date": 1586190157,
+    }
+  ]
+}
